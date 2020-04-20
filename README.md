@@ -16,4 +16,4 @@
 > 任务二、动态修改每个Vue的浏览器title（使用路由里面的meta属性）
 > 任务三、修改webpack配置，减少引用文件的路径
 比如：import A from '../../components/A.vue'  配置后 import A from '@/components/A.vue'
-> 任务三、如何区分开发环境和线上环境
+> 任务四、如何区分开发环境和线上环境
