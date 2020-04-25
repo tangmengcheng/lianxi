@@ -37,3 +37,8 @@
 > 任务一、在vue页面中使用一下插槽slot的用法
 > 任务二、在App.vue页面中格式化浏览器地址栏上的参数；http://localhost:8080?username='sxm'&age=22   结果输出 {"username": "sxm", "age": 22}
 > 任务三、阅读vue-router和vuex的官方文档
+
+## 2020-4-25
+> 任务一、重新创建一个项目（添加vue-router、vuex），在vue中使用vuxUI组件库开发一个底部Tab和顶部Tab
+> 任务二、在该项目中集成阿里图标库
+> 任务三、阅读vux的官方文档（https://vux.li/）
