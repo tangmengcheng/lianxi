@@ -67,3 +67,8 @@
 > 任务一、调一下商铺的接口地址（接口地址是：http://192.168.0.226:15001/ecm/api/app/getMerchantList）
 > 任务二、观看better-scroll文档（文档地址是：http://ustbhuangyi.github.io/better-scroll/doc/api.html）
 > 任务三、试着对着以前做的饿了么项目，自己实现那个商品左右联动的静态页面
+
+## 2020-5-6
+> 任务一、上午记一下面试题
+> 任务二、下午练习js中数组的各种方法
+> 任务三、练一下vue中的路由导航的三种钩子
